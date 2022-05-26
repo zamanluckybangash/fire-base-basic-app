@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1022455371874",
+    "project_id": "amazing-counter7",
+    "storage_bucket": "amazing-counter7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022455371874:android:e1d74df80b472e616c193b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_antonx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022455371874-cja4e30oes9tf2d7aga1e38ttv9a1oei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMOiVBmrl1r4V8yR2uRkkQeioyPPJVB84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022455371874-cja4e30oes9tf2d7aga1e38ttv9a1oei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
